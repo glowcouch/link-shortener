@@ -4,9 +4,8 @@
     "/"
   ],
   "links": {
-    "foo": "https://google.com",
-    "bar": {
-      "baz": "https://github.com"
+    "hack": {
+      "eoi": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F59%2F54%2Fb4%2F5954b408c66525ad932faa693a647e3f.jpg&f=1&nofb=1&ipt=f6b41b77bdd43112dd5b233c211c64bdf90fb12bbdc5e807f2e86726149e8930"
     }
   }
 }
